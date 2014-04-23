@@ -1,0 +1,6 @@
+distributor	part#	cost (@qty 100)	comments		website
+future electronics	LXM3-PD01	1.9	653 in reserve stock		http://www.futureelectronics.com/en/technologies/semiconductors/lighting-solutions/high-power-led-emitters/colour/Pages/1005356-LXM3-PD01.aspx
+digikey	LXM3-PD01-ND		no stock; minimum order 1000		http://www.digikey.com/product-search/en?vendor=0&keywords=LXM3-PD01
+mouser	997-LXM3-PD01	1.98	6906 on order for may 8		http://www.mouser.com/ProductDetail/Philips-Lumileds/LXM3-PD01/?qs=SB5DQgYJm0lu6qaylev%252bTw==
+farnell	LXM3-PD01	3.37	1822 in stock		http://uk.farnell.com/lumileds/lxm3-pd01/rebel-deep-red-650nm-670nm/dp/2062933RL
+newark	75T7432	2.98	41 in stock; can they get from farnell?		http://www.newark.com/lumileds/lxm3-pd01/rebel-deep-red-650nm-670nm/dp/75T7432?ost=LXM3-PD01
